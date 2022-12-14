@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Health Tracker</string>
+    <string name="diabetes_negative">Diabetes Negative</string>
+    <string name="diabetes_positive">Diabetes Positive</string>
+    <string name="age_2_16">Type of diabetes:\n T1DM, T2DM, prediabetes\n\n
+        Exercise pattern:\n Moderate-or vigorous intensity aerobic activity, width vigorous, muscle-strengthening and born-strengthening activities\n\n
+        Duration:\n At least 60 minutes per day (3 days per week) </string>
+    <string name="age_17_35">Type of diabetes:\n T1DM, T2DM, prediabetes\n\n
+        Exercise pattern:\n Moderate-or vigorous intensity physical activity prolonged sitting should be interrupted every 30 min for maintaining BSL\n\n
+        Duration:\n At least 150min/week (with no more than 2 consecutive days without activity)</string>
+    <string name="age_36_more">Type of diabetes:\n T1DM, T2DM\n\n
+        Exercise pattern:\n Flexibility training balance training, yoga\n\n
+        Duration:\n  At least 30 min/day (2/3 times/week)</string>
+    <string name="enter_all_values">Enter all the values</string>
+    <string name="enter_valid_mobile">Enter valid mobile no</string>
+    <string name="logout">Logout</string>
+</resources>
